@@ -1,0 +1,8 @@
+-Ic:\UD-PDF\lib;c:\UD-PDF\fonts
+-sDEVICE=pdfwrite
+-sOutputFile=c:\UD-PDF\page0001.pdf
+-r200
+-dNOPAUSE
+-dSAFER
+-sPAPERSIZE=a4
+

@@ -1,0 +1,8 @@
+-Ic:\UD-PDF\lib;
+-sDEVICE=tiffg4
+-dMaxStripSize=8192
+-sOutputFile=c:\UD-PDF\page0001.tif
+-r200
+-dNOPAUSE
+-dSAFER
+-sPAPERSIZE=a4
